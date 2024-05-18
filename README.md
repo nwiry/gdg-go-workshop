@@ -1,4 +1,4 @@
-# 🏫 Oficina de Código em Go
+# 💻 Oficina de Código em Go
 
 Bem-vindo à oficina de código em Go! Nesta oficina, você aprenderá o básico da linguagem de programação Go, como configurá-la no seu ambiente de desenvolvimento, e explorar alguns dos recursos mais legais que ela oferece.
 
@@ -73,10 +73,12 @@ Go, também conhecido como Golang, é uma linguagem de programação desenvolvid
 
 ## 🚀 Atividade Prática
 
-Durante a oficina, apresentaremos um código simples em Go. Começaremos com o clássico "Hello World" e avançaremos até o desenvolvimento de um servidor web simples. Os códigos estarão disponíveis na pasta `source` do repositório.
+Durante a oficina, apresentaremos um código simples em Go. Começaremos com o clássico "Hello World" e avançaremos até o desenvolvimento de um servidor web simples, com uma pequena introdução aos pacotes utilizados. Os códigos estarão disponíveis na pasta `source` do repositório.
 
 ---
 
 Esta oficina é organizada pelo GDG Ilhéus. Esperamos que você aproveite e aprenda bastante com a linguagem Go!
 
-Para mais informações e recursos adicionais, visite o [site oficial do Go](https://golang.org/) e o [GitHub do Go](https://github.com/golang/go).
+Para mais informações e recursos adicionais, visite: 
+- [Site oficial do Go](https://go.dev).
+- [Site Oficial do GDG Ilhéus](https://gdg.community.dev/gdg-ilheus/).
