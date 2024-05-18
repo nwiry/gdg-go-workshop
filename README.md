@@ -80,5 +80,5 @@ Durante a oficina, apresentaremos um código simples em Go. Começaremos com o c
 Esta oficina é organizada pelo GDG Ilhéus. Esperamos que você aproveite e aprenda bastante com a linguagem Go!
 
 Para mais informações e recursos adicionais, visite: 
-- [Site oficial do Go](https://go.dev).
+- [Site Oficial do Go](https://go.dev).
 - [Site Oficial do GDG Ilhéus](https://gdg.community.dev/gdg-ilheus/).
