@@ -76,6 +76,7 @@ Go, também conhecido como Golang, é uma linguagem de programação desenvolvid
 Durante a oficina, apresentaremos um código simples em Go. Começaremos com o clássico "Hello World" e avançaremos até o desenvolvimento de um servidor web simples, com uma pequena introdução aos pacotes utilizados. Os códigos estarão disponíveis na pasta `source` do repositório.
 
 ---
+![image](https://github.com/nwiry/gdg-go-workshop/assets/42446215/1f2f5abe-9047-4ff7-9fda-e74c61ffcdac)
 
 Esta oficina é organizada pelo GDG Ilhéus. Esperamos que você aproveite e aprenda bastante com a linguagem Go!
 
